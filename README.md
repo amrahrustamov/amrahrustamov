@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm full stack developer
+I'm backend developer
 
 
 # 💻 Tech Stack:
